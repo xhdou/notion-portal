@@ -1,8 +1,8 @@
 
 const CONFIG = {
   // Important page_id！！！Duplicate Template from  https://dingliu.notion.site/NotionPortal-Template-354428ac80374a9d84a1890225578a0b
-  WEBSITE_NOTION_PAGE_ID: process.env.WEBSITE_NOTION_PAGE_ID || '5f940aa2e51049bd9b451414041c09f5',
-  LINKS_NOTION_PAGE_ID: process.env.LINKS_NOTION_PAGE_ID || '7be92035f8784e588fdfca0b264dbb2f',
+  WEBSITE_NOTION_PAGE_ID: process.env.WEBSITE_NOTION_PAGE_ID || '687bc7d75a2f47929c1b3483ae920f08',
+  LINKS_NOTION_PAGE_ID: process.env.LINKS_NOTION_PAGE_ID || '45c266d9d371420dad4a93686d620913',
   NOTION_ACCESS_TOKEN: process.env.NOTION_ACCESS_TOKEN || '', // Useful if you prefer not to make your database public
 
   LINKS_CATEGORY_LEVELS: ['category1', 'category2'],
